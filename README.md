@@ -3,6 +3,8 @@ Provenance Corpus
 This is the [Wf4Ever](http://www.wf4ever-project.org/) Provenance corpus.
 The corpus is maintained at GitHub.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11607.png)](http://dx.doi.org/10.5281/zenodo.11607)
+
 For more information, read about the [Provenance corpus in the Wf4Ever
 wiki](http://www.wf4ever-project.org/wiki/display/docs/Provenance+corpus).
 
@@ -21,8 +23,8 @@ the [Wf4Ever project partners](http://www.wf4ever-project.org/partners):
 
 * iSOCO, Spain
 * University of Manchester, UK
-* Universidad Politécnica de Madrid, Spain
+* Universidad PolitÃ©cnica de Madrid, Spain
 * University of Oxford, UK
 * Poznan Supercomputing and Networking Center, Poland
-* Instituto de Astrofísica de Andalucía, Spain
+* Instituto de AstrofÃ­sica de AndalucÃ­a, Spain
 * University Medical Centre, The Netherlands
